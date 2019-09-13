@@ -1,0 +1,19 @@
+ {
+    "name": "com.cglab.custom-package-test",
+    "version": "1.0.1",
+    "displayName": "Custom Package",
+    "description": "This is a custom package for testing the new package system in unity",
+    "unity": "2019.2",
+    "keywords": [
+        "inputs",
+        "topdown",
+        "rpg"
+    ],
+    "author": {
+
+        "name": "Jesús Caro",
+        "email": "jfcarocota@gmail.com",
+        "url": "https://connect.unity.com/u/jesus-caro"
+    },
+    "license": "MIT"
+}
