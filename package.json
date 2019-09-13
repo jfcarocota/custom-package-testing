@@ -1,5 +1,5 @@
  {
-    "name": "com.cglab.custom-package-test",
+    "name": "com.cglab.custom-package-testing",
     "version": "1.0.1",
     "displayName": "Custom Package",
     "description": "This is a custom package for testing the new package system in unity",
