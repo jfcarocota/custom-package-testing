@@ -1,6 +1,10 @@
 ﻿# custom-package-testing
 
-use package
+## use package
 ```node
-"com.cglab.custom-package-testing": "https://github.com/jfcarocota/custom-package-testing.git"
+{
+  "dependencies": {
+    "com.cglab.custom-package-testing": "https://github.com/jfcarocota/custom-package-testing.git"
+  }
+}
 ```
